@@ -1,0 +1,27 @@
+{
+    "REG001": {
+        "address": "123 Main Street, Accra",
+        "contact": "0244123456",
+        "program": "Computer Science"
+    },
+    "REG002": {
+        "address": "45 Oak Avenue, Kumasi",
+        "contact": "0555987654",
+        "program": "Information Technology"
+    },
+    "REG003": {
+        "address": "78 Pine Road, Tamale",
+        "contact": "0203111222",
+        "program": "Software Engineering"
+    },
+    "REG004": {
+        "address": "12 River Lane, Cape Coast",
+        "contact": "0277333444",
+        "program": "Data Science"
+    },
+    "24/u/06735/ps": {
+        "address": "ntinda kampala",
+        "contact": "0752895268",
+        "program": "software engineering"
+    }
+}
